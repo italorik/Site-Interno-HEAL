@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-18 03:00:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-18 03:00:44 192.168.1.20 GET / - 80 - 192.168.1.34 avast!+Antivirus - 200 0 0 109
+2020-11-18 03:00:47 192.168.1.20 GET /HNAP1/ - 80 - 192.168.1.34 avast!+Antivirus - 404 0 2 0
+2020-11-18 03:01:36 192.168.1.20 GET /requested.html - 80 - 192.168.1.34 - - 404 0 2 0

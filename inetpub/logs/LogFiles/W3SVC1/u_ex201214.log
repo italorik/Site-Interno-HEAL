@@ -1,0 +1,33 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-12-14 18:14:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-12-14 18:14:16 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 93
+2020-12-14 18:21:51 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 0
+2020-12-14 18:21:51 192.168.1.20 GET /.git/HEAD - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 404 0 2 0
+2020-12-14 18:21:51 192.168.1.20 GET /nmaplowercheck1607970144 - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 404 0 2 0
+2020-12-14 18:21:51 192.168.1.20 PROPFIND / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 405 0 1 0
+2020-12-14 18:21:51 192.168.1.20 GET /HNAP1 - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 404 0 2 0
+2020-12-14 18:21:54 192.168.1.20 PROPFIND / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 405 0 1 0
+2020-12-14 18:21:59 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 200 0 0 0
+2020-12-14 18:22:01 192.168.1.20 OPTIONS / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 200 0 0 0
+2020-12-14 18:22:01 192.168.1.20 OPTIONS / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 200 0 0 0
+2020-12-14 18:22:01 192.168.1.20 OPTIONS / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 200 0 0 0
+2020-12-14 18:22:01 192.168.1.20 OPTIONS / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 200 0 0 0
+2020-12-14 18:22:01 192.168.1.20 OPTIONS / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 200 0 0 15
+2020-12-14 18:22:01 192.168.1.20 OPTIONS / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 200 0 0 15
+2020-12-14 18:22:02 192.168.1.20 OPTIONS / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 200 0 0 0
+2020-12-14 18:22:02 192.168.1.20 OPTIONS / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 200 0 0 0
+2020-12-14 18:22:02 192.168.1.20 OPTIONS / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 200 0 0 0
+2020-12-14 18:22:19 192.168.1.20 OPTIONS / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 200 0 0 0
+2020-12-14 18:22:19 192.168.1.20 BHFK / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 405 0 1 0
+2020-12-14 18:22:31 192.168.1.20 POST / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 405 0 1 0
+2020-12-14 18:22:38 192.168.1.20 OPTIONS / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 200 0 0 0
+2020-12-14 18:22:38 192.168.1.20 PROPFIND / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 405 0 1 0
+2020-12-14 18:22:57 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 200 0 0 0
+2020-12-14 18:23:06 192.168.1.20 GET /evox/about - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 404 0 2 0
+2020-12-14 18:23:11 192.168.1.20 GET /favicon.ico - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 404 0 2 0
+2020-12-14 18:23:36 192.168.1.20 GET /robots.txt - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 404 0 2 15
+2020-12-14 18:24:47 192.168.1.20 POST /sdk - 80 - 192.168.1.9 Mozilla/5.0+(compatible;+Nmap+Scripting+Engine;+https://nmap.org/book/nse.html) - 404 0 2 0
+2020-12-14 18:27:05 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 0
+2020-12-14 18:27:05 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 15

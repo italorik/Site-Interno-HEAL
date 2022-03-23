@@ -1,0 +1,35 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-14 00:30:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-05-14 00:30:37 192.168.1.20 GET / - 80 - 192.168.1.4 Mozilla/5.0 - 200 0 0 299
+2021-05-14 00:30:37 192.168.1.20 GET /nice+ports,/Trinity.txt.bak - 80 - 192.168.1.4 - - 404 0 2 0
+2021-05-14 00:30:37 192.168.1.20 GET / - 80 - 192.168.1.4 - - 200 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-14 02:50:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-05-14 02:50:49 192.168.1.20 GET / - 80 - 192.168.1.4 Mozilla/5.0 - 200 0 0 93
+2021-05-14 02:50:49 192.168.1.20 GET /nice+ports,/Trinity.txt.bak - 80 - 192.168.1.4 - - 404 0 2 1
+2021-05-14 02:50:49 192.168.1.20 GET / - 80 - 192.168.1.4 - - 200 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-14 15:48:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-05-14 15:48:13 192.168.1.20 GET / - 80 - 192.168.1.4 Mozilla/5.0 - 200 0 0 124
+2021-05-14 15:48:13 192.168.1.20 GET /nice+ports,/Trinity.txt.bak - 80 - 192.168.1.4 - - 404 0 2 0
+2021-05-14 15:48:13 192.168.1.20 GET / - 80 - 192.168.1.4 - - 200 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-14 17:34:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-05-14 17:34:08 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0 - 200 0 0 140
+2021-05-14 17:34:10 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 640
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-14 18:23:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-05-14 18:23:24 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0 - 200 0 0 171
+2021-05-14 18:23:26 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 605
+2021-05-14 18:28:31 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0 - 200 0 0 0
+2021-05-14 18:28:31 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 0

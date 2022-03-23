@@ -1,0 +1,24 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-12-09 10:59:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-12-09 10:59:58 192.168.1.20 OPTIONS /sysvol/heal.local/Policies/{31B2F340-016D-11D2-945F-00C04FB984F9}/Machine/Preferences/PowerOptions/PowerOptions.xml - 80 - 192.168.1.76 Microsoft-WebDAV-MiniRedir/6.1.7601 - 200 0 0 303
+2020-12-09 10:59:59 192.168.1.20 PROPFIND /sysvol/heal.local/Policies/{31B2F340-016D-11D2-945F-00C04FB984F9}/Machine/Preferences/PowerOptions/PowerOptions.xml - 80 - 192.168.1.76 Microsoft-WebDAV-MiniRedir/6.1.7601 - 404 0 2 187
+2020-12-09 10:59:59 192.168.1.20 PROPFIND /sysvol/heal.local/Policies/{31B2F340-016D-11D2-945F-00C04FB984F9}/Machine/Preferences/PowerOptions - 80 - 192.168.1.76 Microsoft-WebDAV-MiniRedir/6.1.7601 - 404 0 2 203
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-12-09 15:28:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-12-09 15:28:22 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0 - 200 0 0 203
+2020-12-09 15:28:22 192.168.1.20 GET /nice+ports,/Trinity.txt.bak - 80 - 192.168.1.9 - - 404 0 2 0
+2020-12-09 15:28:22 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 0
+2020-12-09 15:29:02 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0 - 200 0 0 0
+2020-12-09 15:29:02 192.168.1.20 GET /nice+ports,/Trinity.txt.bak - 80 - 192.168.1.9 - - 404 0 2 0
+2020-12-09 15:29:02 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 15
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-12-09 17:44:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-12-09 17:44:50 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0 - 200 0 0 90
+2020-12-09 17:44:50 192.168.1.20 GET /nice+ports,/Trinity.txt.bak - 80 - 192.168.1.9 - - 404 0 2 0
+2020-12-09 17:44:50 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 0

@@ -1,0 +1,27 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-03-24 10:11:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-03-24 10:11:09 192.168.1.20 GET / - 80 - 192.168.1.160 Mozilla/5.0 - 200 0 0 140
+2021-03-24 10:11:11 192.168.1.20 GET / - 80 - 192.168.1.160 - - 200 0 0 421
+2021-03-24 10:15:31 192.168.1.20 GET / - 80 - 192.168.1.160 Mozilla/5.0 - 200 0 0 0
+2021-03-24 10:15:31 192.168.1.20 GET / - 80 - 192.168.1.160 - - 200 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-03-24 11:55:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-03-24 11:55:50 192.168.1.20 GET / - 80 - 192.168.1.160 Mozilla/5.0 - 200 0 0 143
+2021-03-24 11:55:52 192.168.1.20 GET / - 80 - 192.168.1.160 - - 200 0 0 784
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-03-24 12:30:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-03-24 12:30:26 192.168.1.20 GET / - 80 - 192.168.1.107 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.90+Safari/537.36 - 200 0 0 156
+2021-03-24 12:30:26 192.168.1.20 GET /default.css - 80 - 192.168.1.107 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.90+Safari/537.36 http://www.intraheal.com.br/ 200 0 0 0
+2021-03-24 12:30:26 192.168.1.20 GET /fonts.css - 80 - 192.168.1.107 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.90+Safari/537.36 http://www.intraheal.com.br/ 200 0 0 0
+2021-03-24 12:30:26 192.168.1.20 GET /images/show-menu.png - 80 - 192.168.1.107 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.90+Safari/537.36 http://www.intraheal.com.br/ 200 0 0 78
+2021-03-24 12:30:26 192.168.1.20 GET /images/teste.png - 80 - 192.168.1.107 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.90+Safari/537.36 http://www.intraheal.com.br/ 200 0 0 140
+2021-03-24 12:30:26 192.168.1.20 GET /favicon.ico - 80 - 192.168.1.107 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.90+Safari/537.36 http://www.intraheal.com.br/ 404 0 2 46
+2021-03-24 12:30:46 192.168.1.20 GET /manuais.html - 80 - 192.168.1.107 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.90+Safari/537.36 http://www.intraheal.com.br/ 200 0 0 46
+2021-03-24 12:30:52 192.168.1.20 GET /utilitarios.html - 80 - 192.168.1.107 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.90+Safari/537.36 http://www.intraheal.com.br/manuais.html 200 0 0 0
+2021-03-24 12:30:54 192.168.1.20 GET /carreras.html - 80 - 192.168.1.107 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.90+Safari/537.36 http://www.intraheal.com.br/utilitarios.html 200 0 0 0

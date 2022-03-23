@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-03-11 13:50:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-03-11 13:50:27 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0 - 200 0 0 245
+2021-03-11 13:50:28 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 340
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-03-11 14:17:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-03-11 14:17:06 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0 - 200 0 0 93
+2021-03-11 14:17:06 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-03-11 19:03:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-03-11 19:03:12 192.168.1.20 OPTIONS / - 80 - 192.168.1.148 Microsoft-WebDAV-MiniRedir/5.1.2600 - 200 0 0 93
+2021-03-11 19:03:12 192.168.1.20 PROPFIND /SysVol - 80 - 192.168.1.148 Microsoft-WebDAV-MiniRedir/5.1.2600 - 404 0 64 0

@@ -1,0 +1,24 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-03-19 10:12:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-03-19 10:12:01 192.168.1.20 GET / - 80 - 192.168.1.11 Mozilla/5.0 - 200 0 0 93
+2021-03-19 10:12:05 192.168.1.20 GET / - 80 - 192.168.1.11 - - 200 0 0 734
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-03-19 11:22:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-03-19 11:22:53 192.168.1.20 GET / - 80 - 192.168.1.160 Mozilla/5.0 - 200 0 0 109
+2021-03-19 11:22:55 192.168.1.20 GET / - 80 - 192.168.1.160 - - 200 0 0 406
+2021-03-19 11:29:04 192.168.1.20 GET / - 80 - 192.168.1.160 Mozilla/5.0 - 200 0 0 0
+2021-03-19 11:29:04 192.168.1.20 GET / - 80 - 192.168.1.160 - - 200 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-03-19 15:37:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-03-19 15:37:46 192.168.1.20 GET / - 80 - 192.168.1.160 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:86.0)+Gecko/20100101+Firefox/86.0 - 200 0 0 161
+2021-03-19 15:37:47 192.168.1.20 GET /fonts.css - 80 - 192.168.1.160 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:86.0)+Gecko/20100101+Firefox/86.0 http://www.intraheal.com.br/ 200 0 0 15
+2021-03-19 15:37:47 192.168.1.20 GET /default.css - 80 - 192.168.1.160 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:86.0)+Gecko/20100101+Firefox/86.0 http://www.intraheal.com.br/ 200 0 0 46
+2021-03-19 15:37:47 192.168.1.20 GET /images/show-menu.png - 80 - 192.168.1.160 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:86.0)+Gecko/20100101+Firefox/86.0 http://www.intraheal.com.br/ 200 0 0 32
+2021-03-19 15:37:47 192.168.1.20 GET /images/teste.png - 80 - 192.168.1.160 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:86.0)+Gecko/20100101+Firefox/86.0 http://www.intraheal.com.br/ 200 0 0 79
+2021-03-19 15:37:47 192.168.1.20 GET /favicon.ico - 80 - 192.168.1.160 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:86.0)+Gecko/20100101+Firefox/86.0 http://www.intraheal.com.br/ 404 0 2 90

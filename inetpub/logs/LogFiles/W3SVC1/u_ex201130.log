@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-30 11:58:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-30 11:58:43 192.168.1.20 OPTIONS /sysvol/heal.local/Policies/{31B2F340-016D-11D2-945F-00C04FB984F9}/Machine/Microsoft/Windows+NT/SecEdit/GptTmpl.inf - 80 - 192.168.1.76 Microsoft-WebDAV-MiniRedir/6.1.7601 - 200 0 0 293
+2020-11-30 11:58:43 192.168.1.20 PROPFIND /sysvol/heal.local/Policies/{31B2F340-016D-11D2-945F-00C04FB984F9}/Machine/Microsoft/Windows+NT/SecEdit/GptTmpl.inf - 80 - 192.168.1.76 Microsoft-WebDAV-MiniRedir/6.1.7601 - 404 0 2 210
+2020-11-30 11:58:44 192.168.1.20 PROPFIND /sysvol/heal.local/Policies/{31B2F340-016D-11D2-945F-00C04FB984F9}/Machine/Microsoft/Windows+NT/SecEdit - 80 - 192.168.1.76 Microsoft-WebDAV-MiniRedir/6.1.7601 - 404 0 2 188

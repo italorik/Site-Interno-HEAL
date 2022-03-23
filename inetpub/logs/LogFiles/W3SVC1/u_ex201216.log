@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-12-16 14:45:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-12-16 14:45:45 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0 - 200 0 0 93
+2020-12-16 14:45:45 192.168.1.20 GET /nice+ports,/Trinity.txt.bak - 80 - 192.168.1.9 - - 404 0 2 0
+2020-12-16 14:45:45 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 0

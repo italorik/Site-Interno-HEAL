@@ -1,0 +1,74 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-11 12:23:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-05-11 12:23:24 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0 - 200 0 0 93
+2021-05-11 12:23:29 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 64 2281
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-11 15:01:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-05-11 15:01:28 192.168.1.20 GET / - 80 - 192.168.1.120 Mozilla/5.0 - 200 0 0 124
+2021-05-11 15:01:31 192.168.1.20 GET / - 80 - 192.168.1.120 - - 200 0 0 562
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-11 15:47:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-05-11 15:47:44 192.168.1.20 GET / - 80 - 192.168.1.4 Mozilla/5.0 - 200 0 0 140
+2021-05-11 15:47:44 192.168.1.20 GET /nice+ports,/Trinity.txt.bak - 80 - 192.168.1.4 - - 404 0 2 15
+2021-05-11 15:47:44 192.168.1.20 GET / - 80 - 192.168.1.4 - - 200 0 0 0
+2021-05-11 15:51:25 192.168.1.20 GET / - 80 - 192.168.1.4 Mozilla/5.0 - 200 0 0 15
+2021-05-11 15:51:25 192.168.1.20 GET /nice+ports,/Trinity.txt.bak - 80 - 192.168.1.4 - - 404 0 2 0
+2021-05-11 15:51:25 192.168.1.20 GET / - 80 - 192.168.1.4 - - 200 0 0 15
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-11 16:16:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-05-11 16:16:36 192.168.1.20 GET / - 80 - 192.168.1.4 Mozilla/5.0 - 200 0 0 93
+2021-05-11 16:16:36 192.168.1.20 GET /nice+ports,/Trinity.txt.bak - 80 - 192.168.1.4 - - 404 0 2 0
+2021-05-11 16:16:36 192.168.1.20 GET / - 80 - 192.168.1.4 - - 200 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-11 17:33:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-05-11 17:33:45 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0 - 200 0 0 109
+2021-05-11 17:33:47 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 1707
+2021-05-11 17:44:37 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0 - 200 0 0 0
+2021-05-11 17:44:38 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 921
+2021-05-11 17:54:37 192.168.1.20 GET / - 80 - 192.168.1.4 Mozilla/5.0 - 200 0 0 15
+2021-05-11 17:54:37 192.168.1.20 GET /nice+ports,/Trinity.txt.bak - 80 - 192.168.1.4 - - 404 0 2 0
+2021-05-11 17:54:37 192.168.1.20 GET / - 80 - 192.168.1.4 - - 200 0 0 0
+2021-05-11 18:05:11 192.168.1.20 GET / - 80 - 192.168.1.4 Mozilla/5.0 - 200 0 0 0
+2021-05-11 18:05:11 192.168.1.20 GET /nice+ports,/Trinity.txt.bak - 80 - 192.168.1.4 - - 404 0 2 15
+2021-05-11 18:05:11 192.168.1.20 GET / - 80 - 192.168.1.4 - - 200 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-11 19:52:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-05-11 19:52:17 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0 - 200 0 0 109
+2021-05-11 19:52:19 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 953
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-11 20:35:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-05-11 20:35:24 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0 - 200 0 0 140
+2021-05-11 20:35:24 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-11 20:56:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-05-11 20:56:42 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0 - 200 0 0 140
+2021-05-11 20:56:44 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 328
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-11 21:19:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-05-11 21:19:31 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0 - 200 0 0 171
+2021-05-11 21:19:31 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-05-11 22:02:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-05-11 22:02:21 192.168.1.20 GET / - 80 - 192.168.1.4 Mozilla/5.0 - 200 0 0 93
+2021-05-11 22:02:21 192.168.1.20 GET /nice+ports,/Trinity.txt.bak - 80 - 192.168.1.4 - - 404 0 2 15
+2021-05-11 22:02:21 192.168.1.20 GET / - 80 - 192.168.1.4 - - 200 0 0 0

@@ -1,0 +1,13 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-01-08 11:34:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-01-08 11:34:07 192.168.1.20 GET / - 80 - 192.168.1.46 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/87.0.4280.141+Safari/537.36 - 200 0 0 140
+2021-01-08 11:34:07 192.168.1.20 GET /default.css - 80 - 192.168.1.46 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/87.0.4280.141+Safari/537.36 http://www.intraheal.com.br/ 200 0 0 0
+2021-01-08 11:34:07 192.168.1.20 GET /fonts.css - 80 - 192.168.1.46 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/87.0.4280.141+Safari/537.36 http://www.intraheal.com.br/ 200 0 0 0
+2021-01-08 11:34:07 192.168.1.20 GET /images/show-menu.png - 80 - 192.168.1.46 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/87.0.4280.141+Safari/537.36 http://www.intraheal.com.br/ 200 0 0 62
+2021-01-08 11:34:08 192.168.1.20 GET /images/teste.png - 80 - 192.168.1.46 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/87.0.4280.141+Safari/537.36 http://www.intraheal.com.br/ 200 0 0 476
+2021-01-08 11:34:08 192.168.1.20 GET /favicon.ico - 80 - 192.168.1.46 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/87.0.4280.141+Safari/537.36 http://www.intraheal.com.br/ 404 0 2 31
+2021-01-08 11:34:28 192.168.1.20 GET /manuais.html - 80 - 192.168.1.46 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/87.0.4280.141+Safari/537.36 http://www.intraheal.com.br/ 200 0 0 62
+2021-01-08 11:34:36 192.168.1.20 GET /utilitarios.html - 80 - 192.168.1.46 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/87.0.4280.141+Safari/537.36 http://www.intraheal.com.br/manuais.html 200 0 0 0
+2021-01-08 11:34:39 192.168.1.20 GET /carreras.html - 80 - 192.168.1.46 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/87.0.4280.141+Safari/537.36 http://www.intraheal.com.br/utilitarios.html 200 0 0 0

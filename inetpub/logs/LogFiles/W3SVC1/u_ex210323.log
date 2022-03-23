@@ -1,0 +1,24 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-03-23 09:44:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-03-23 09:44:10 192.168.1.20 GET / - 80 - 192.168.1.11 Mozilla/5.0 - 200 0 0 109
+2021-03-23 09:44:12 192.168.1.20 GET / - 80 - 192.168.1.11 - - 200 0 64 656
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-03-23 15:34:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-03-23 15:34:59 192.168.1.20 GET / - 80 - 192.168.1.11 Mozilla/5.0 - 200 0 0 109
+2021-03-23 15:35:01 192.168.1.20 GET / - 80 - 192.168.1.11 - - 200 0 0 367
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-03-23 16:06:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-03-23 16:06:14 192.168.1.20 GET / - 80 - 192.168.1.11 Mozilla/5.0 - 200 0 0 124
+2021-03-23 16:06:14 192.168.1.20 GET / - 80 - 192.168.1.11 - - 200 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-03-23 19:00:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-03-23 19:00:46 192.168.1.20 GET / - 80 - 192.168.1.160 Mozilla/5.0 - 200 0 0 124
+2021-03-23 19:00:48 192.168.1.20 GET / - 80 - 192.168.1.160 - - 200 0 0 468

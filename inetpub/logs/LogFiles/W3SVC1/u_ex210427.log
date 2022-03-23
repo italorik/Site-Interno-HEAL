@@ -1,0 +1,19 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-04-27 12:19:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-04-27 12:19:17 192.168.1.20 GET / - 80 - 192.168.1.138 AVG+Antivirus - 200 0 0 93
+2021-04-27 12:19:19 192.168.1.20 GET /HNAP1/ - 80 - 192.168.1.138 AVG+Antivirus - 404 0 2 15
+2021-04-27 12:20:06 192.168.1.20 GET /requested.html - 80 - 192.168.1.138 - - 404 0 2 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-04-27 14:40:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-04-27 14:40:02 192.168.1.20 GET / - 80 - 192.168.1.109 Mozilla/5.0 - 200 0 0 109
+2021-04-27 14:40:05 192.168.1.20 GET / - 80 - 192.168.1.109 - - 200 0 64 1312
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-04-27 17:31:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-04-27 17:31:18 192.168.1.20 GET / - 80 - 192.168.1.9 Mozilla/5.0 - 200 0 0 140
+2021-04-27 17:31:20 192.168.1.20 GET / - 80 - 192.168.1.9 - - 200 0 0 350

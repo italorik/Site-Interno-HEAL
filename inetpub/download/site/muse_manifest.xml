@@ -1,0 +1,24 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="intranet.com.br" resolutions="1x" timestamp="1469483116768">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="4291342676" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="giddyupstd.woff" crc="4132917524"/>
+    <file name="giddyupstd.eot" crc="341088423"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="show-menu.png" crc="438316876" seo="true" ref="index"/>
+    <file name="lapis.png" crc="3759004415" seo="true" ref="index"/>
+    <file name="imagem.png" crc="356503182" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="243556254" seo="true" mt="1469482971539" redirect="true"/>
+</manifest>

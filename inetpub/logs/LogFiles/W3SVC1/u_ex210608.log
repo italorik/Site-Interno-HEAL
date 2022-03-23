@@ -1,0 +1,27 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-06-08 14:10:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-06-08 14:10:26 192.168.1.20 GET / - 80 - 192.168.1.106 Mozilla/5.0 - 200 0 0 109
+2021-06-08 14:10:32 192.168.1.20 GET / - 80 - 192.168.1.106 - - 200 0 0 3431
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-06-08 18:36:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-06-08 18:36:49 192.168.1.20 GET / - 80 - 192.168.1.225 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:88.0)+Gecko/20100101+Firefox/88.0 - 200 0 0 328
+2021-06-08 18:37:13 192.168.1.20 GET /fonts.css - 80 - 192.168.1.225 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:88.0)+Gecko/20100101+Firefox/88.0 http://www.intraheal.com.br/ 200 0 0 0
+2021-06-08 18:37:13 192.168.1.20 GET /default.css - 80 - 192.168.1.225 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:88.0)+Gecko/20100101+Firefox/88.0 http://www.intraheal.com.br/ 200 0 0 0
+2021-06-08 18:37:15 192.168.1.20 GET /favicon.ico - 80 - 192.168.1.225 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:88.0)+Gecko/20100101+Firefox/88.0 http://www.intraheal.com.br/ 404 0 2 203
+2021-06-08 18:37:15 192.168.1.20 GET /images/show-menu.png - 80 - 192.168.1.225 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:88.0)+Gecko/20100101+Firefox/88.0 http://www.intraheal.com.br/ 200 0 0 219
+2021-06-08 18:37:15 192.168.1.20 GET /images/teste.png - 80 - 192.168.1.225 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:88.0)+Gecko/20100101+Firefox/88.0 http://www.intraheal.com.br/ 200 0 0 1076
+2021-06-08 18:37:49 192.168.1.20 GET /manuais.html - 80 - 192.168.1.225 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:88.0)+Gecko/20100101+Firefox/88.0 http://www.intraheal.com.br/ 200 0 0 203
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-06-08 19:05:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-06-08 19:05:07 192.168.1.20 GET / - 80 - 192.168.1.221 HomeNet/1.0 - 200 0 0 124
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-06-08 21:10:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2021-06-08 21:10:40 192.168.1.20 GET / - 80 - 192.168.1.221 HomeNet/1.0 - 200 0 0 109
